@@ -1,6 +1,7 @@
 # tik-tak
 
-Foobar is a Python library for dealing with word pluralization.
+This game has been develop, for training and practice purpose,
+enjoy!
 
 ## Develop
 
